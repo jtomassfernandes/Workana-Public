@@ -3,9 +3,11 @@ Projetos
 
 **--\\--\\--\\--\\--\\--\\--PT--\\--\\--\\--\\--\\--\\--**
 Aqui pode encontrar o meu primeiro projeto público: 
-  Uma calculador de Índice de Massa Corporal (IMC)
-    *- com o source code em Python*
-    *- e também com o ficheiro (.exe)*
+
+Uma calculador de Índice de Massa Corporal (IMC)
++ com o source code em Python
++ e também com o ficheiro (.exe)
+    
 Basta abrir e seguir as instruções. 
 
 **--\\--\\--\\--\\--\\--\\--PT--\\--\\--\\--\\--\\--\\--**
