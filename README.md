@@ -15,9 +15,11 @@ Basta abrir e seguir as instruções.
 
 **--\\--\\--\\--\\--\\--\\--EN--\\--\\--\\--\\--\\--\\--**
 You can find here my first public project:
-  A BMI Body Mass Index) Calculator
-  *- with the source code in Python*
-  *- and the file (.exe)*
+
+A BMI Body Mass Index) Calculator
++ with the source code in Python
++ and the file (.exe)
+
 Just plug and play.
 
 **--\\--\\--\\--\\--\\--\\--EN--\\--\\--\\--\\--\\--\\--**
